@@ -1,0 +1,63 @@
+Scenario A - AeroLedger:
+My Thoughts:
+ I’m concerned that they don’t have much of a development process in place and that they want GitHub to “fix everything”.  GitHub is a powerful tool but I am not sure it will be able to fix “all” their problems.
+Customer Questions:
+•	I understand you are using an agile workflow, can you explain the process you are using for deciding which items you work on.  How long are your iterations (i.e. 1 week or 2 weeks, etc.)?
+
+•	Can you explain how your software is tested?  I see you have 5 full stack developers, 1 designer, 1 PM and 1 Owner, so does everyone on the team help to test the software?
+An action that will improve developer collaboration:
+ One action that will help improve developer collaboration is using GitHub.  GitHub uses distributed revision control which provides you with a hosted version of your program as well as the ability to track who is making changes to your software.  GitHub will let you know who is working on specific areas of your software because their changes are tracked in the GitHub’s version control system.
+Possible Risk:
+One risk I see is the client expects tools to solve their problems.  I think a good process is as important as good tools so one without the other will cause unnecessary inefficiencies and could cause the development process to fail.  A successful organization needs to use good tools as well as a good process.
+Scenario B – Baldwin Holdings:
+My Thoughts:
+•	My main concern with Baldwin Holdings is that they work in silos.  Silos promote isolation which limits information sharing and can cause serious cross functional/departmental inefficiencies.  Working in silos can create ineffective programing and can create organizational barriers (Franchise Update Magazine)
+
+•	 I am also concerned that they did not know which tools they use for their build process.  Building the software is an important part of the development process so by not knowing which tools they use could mean they do not have a good build process in place.
+•	Lastly, I am concerned that they use more than one version control software.  It would be more efficient for everyone to use the same version control software which would eliminate having to deal with multiple vendors, different software workflows and compatibility issues.
+Customer Questions:
+•	 Can you explain the silos that are present in your organization?  How does your different business units/departments share information when your development team needs to develop software that is shared amongst different department/ business units?  
+
+•	What is your build process?  How long does it take to run a build and how often are builds run?
+An action that will improve developer collaboration:
+I would suggest better communication and information sharing between departments which will ultimately break down existing silos so the organization works as a team instead of in isolation.
+Possible Risk:
+In the beginning there could be hesitation and anxiety when departments start to share information but once we get through that process, better communication will help the organization be more efficient and will ultimately help create better software.
+Scenario C – CoinBank:
+My Thoughts:
+•	 I’m concerned that the build process is too long (30 hours)
+
+•	Also, I am concerned that they use a waterfall workflow in a highly regulated industry.  A waterfall workflow will not allow the necessary flexibility to change their software when new laws and regulations are enforced.  By time the development is completed, there could be changes to banking regulations or laws which will not be included in the software since the laws/regulations were not present when the specs were created for the development project.  I would recommend using an agile workflow so changing regulations can be addressed in a timely manner.
+Customer Questions:
+•	How does your organization manage changing regulations when using the waterfall workflow and have you ever had to scramble to change your software to address new/changing regulations?  
+
+•	What does your build process entail and which part takes the most amount of time?
+An action that will improve developer collaboration:
+I would suggest using a more agile workflow.  An agile workflow will help eliminate silos via information sharing and it will also make the development process more flexible so changing laws and regulations can be implemented in a timely manner. 
+Possible Risk:
+There will be a disruption in their workflow as they move from the waterfall workflow to an agile workflow because an agile workflow will require more communication and meetings.  In the end though, an agile workflow will help build better communication and will provide the flexibility to make changes in a timely manner.
+Scenario D – DesignLife:
+My Thoughts:
+•	 My concern with DesignLife is they do not want to use continuous integration. The benefit of continuous integration is the software is built more frequently so broken builds are detected early thus making it easier to fix broken builds.
+
+•	I’m also concerned that they do not want to “worry about devtools”.  Good development tools can provide important efficiencies which will benefit the development process.
+
+•	Gitolite might be the answer to their concerns about locking binary artifacts while someone else is working on that artifact.
+Customer Questions:
+•	 How long does it take to you to run a build and how often do you run builds?
+
+•	Which development tools are your programmers currently using?  
+An action that will improve developer collaboration:
+ GitHub has built in “devtools” which will allow your developers to simplify many common tasks.  Also all your developers will be using the same tools which will foster collaboration because they can offer each other best practices on how to use these tools.
+Possible Risk:
+One risk with implementing GitHub’s devtools is that not everyone will like using these tools.  For example, one tool might be perfect for one team member but not perfect for another team member.  There will also be a learning curve when using a new development tool.
+
+I used the following sources for this exercise:
+•	Wikipedia
+•	Stackflow
+•	GitHub (Help)
+•	Franchise Update
+•	Gary Pedretti’s twitter page
+•	Peter Lundgren’s blog
+
+
